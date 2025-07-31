@@ -1,1 +1,1 @@
-# Automatic_Number_Plate_Recognition_ComputerVision
+# Automatic Number Plate Recognition
