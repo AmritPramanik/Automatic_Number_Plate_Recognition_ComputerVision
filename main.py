@@ -1,3 +1,3 @@
 import cv2
 import cvzone
-# from ultralytic
+from ultralytics import yolo
